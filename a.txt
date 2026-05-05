@@ -1,3 +1,4 @@
 make a sense
 modified by Kim
-hello my name is hyeonmo!!
+hello my nme is hyeonmo!!
+emerge conflict!!!
